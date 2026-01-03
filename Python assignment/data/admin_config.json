@@ -1,0 +1,9 @@
+{
+  "admin_email": "yynarrator@gmail.com",
+  "password_hash": "4586952ad20c295255858a46385b3c1fded8ab408d42ef277bf02b490780580e",
+  "security_questions": {
+    "question1": "What city were you born in?",
+    "question2": "What was the name of your first pet?"
+  },
+  "answers_hash": "a44e88951b62a3b1eecd9127901774f5d060f9f5d3ce11cfe344c2546881ea20"
+}

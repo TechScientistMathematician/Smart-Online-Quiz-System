@@ -1,0 +1,33 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "London",
+      "Berlin",
+      "Paris",
+
+      "Madrid"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "question": "Which language is this project written in?",
+    "options": [
+      "Java",
+      "C++",
+      "Python",
+      "JavaScript"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "question": "What color is a black dog?",
+    "options": [
+      "blue",
+      "yellow",
+      "black",
+      "GG"
+    ],
+    "correct_answer": "C"
+  }
+]
